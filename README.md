@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-## this code to create lightsail
-=======
-### this is terraform code
->>>>>>> feature1
+### this a terraform code
