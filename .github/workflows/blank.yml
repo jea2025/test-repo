@@ -18,7 +18,7 @@ jobs:
   test:
       needs: build
       runs-on: ubuntu-latest
-    steps:
+      steps: 
       - name: Check Uptime
         run: uptime
       - name: Cpu info
